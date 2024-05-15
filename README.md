@@ -57,3 +57,18 @@ Cada documento en la colección "orders" representa un pedido realizado por un u
 - **date**: Fecha y hora de la compra (marca de tiempo).
 - **userData**: Información del usuario que realizó la compra, incluyendo su nombre, apellido, correo electrónico y número de teléfono.
 
+## GIFS
+
+A continuación encontrarás GIFs que muestran la usabilidad y funcionalidades clave de este sitio, diseñado para proporcionar una experiencia fluida y agradable a nuestros usuarios.
+
+### Categorías de productos
+
+![Categorías de productos](GIF-Category.gif)
+
+En este GIF, demostramos la navegación por las diferentes categorías de productos disponibles en nuestro sitio. Los usuarios pueden explorar fácilmente las opciones disponibles y encontrar rápidamente lo que están buscando.
+
+### Detalle de los ítems y proceso de compra
+
+![Detalle de los ítems y proceso de compra](GIF-Detail&OrderGeneration.gif)
+
+En este GIF, mostramos el proceso de visualización de los detalles de una comida, así como el flujo de compra. Los usuarios pueden ver información detallada sobre cada producto y realizar pedidos de manera rápida y sencilla.
